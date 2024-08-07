@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Kidile</h1>
 <h3 align="center">I'm a passionate software developer with a focus on web development</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/shweta_k2405" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/shweta_k2405?logo=twitter&style=for-the-badge" alt="https://x.com/shweta_k2405" /></a> </p>
+
 
 - 🌱 I’m currently learning **React**
 
